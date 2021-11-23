@@ -6,7 +6,7 @@
 
 ## I'm a Computer Scientist, Developer, Teacher and Technology geek!!
 
-- 🔭 I just start a bootcamp in web developend in arroyo consulting
+- 🔭 I just start a bootcamp in web developed in arroyo consulting
 - 🌱 I’m currently learning data scients
 - 👯 I’m looking to collaborate with other tech enthusiasts
 - 🥅 2022 Goals: Begin an internship and contribute to Open Source projects  
