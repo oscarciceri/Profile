@@ -6,11 +6,11 @@
 
 ## I'm a Computer Scientist, Developer, Teacher and Technology geek!!
 
-- 🔭 I just start a bootcamp of web developed in arroyo consulting
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate with other tech enthusiasts
-- 🥅 2022 Goals: Begin an internship and contribute to Open Source projects  
-- ⚡ Fun fact: I love to Mountain Bike 
+- 🔭 I just start a bootcamp of web developed in arroyo consulting;
+- 🌱 I’m currently learning data science;
+- 👯 I’m looking to collaborate with other tech enthusiasts; 
+- 🥅 2022 Goals: Begin an internship and contribute to Open Source projects;
+- ⚡ Fun fact: I love to Mountain Bike.
 
 ### Connect with me:
 
