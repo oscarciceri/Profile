@@ -33,7 +33,7 @@
 
 ### Personal Skills:
 
-- 🧬  Living and work skills:  Python, SQL, C/C++, JAVA, BASH;
+- 🧬  Living and work skills: Hard-working, , Quick Learning, Proactive, Resourceful, Adaptability, Troubleshooting
 - 🗣  Languages: Professional English, Fluent Portuguese, Native Spanish.
 
 <br />
