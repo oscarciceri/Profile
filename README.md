@@ -4,7 +4,7 @@
 <!-- [![linkedin](https://image.pngaaa.com/708/1947708-small.png)](https://www.linkedin.com/in/oscarciceri/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Computer Scientist, Developer, Teacher and Technology geek!!
+## I'm a Computer and Data Scientist, Software Developer, Teacher and Technology geek!!
 
 - 🔭 I just start a bootcamp of web developed in arroyo consulting;
 - 🌱 I’m currently learning data science with IBM;
