@@ -6,7 +6,7 @@
 
 ## I'm a Computer and Data Scientist, Software Developer, Teacher and Technology geek!!
 
-- 🔭 I just starting to learn AWS adn Azure cloud services;
+- 🔭 I just starting to learn AWS and Azure cloud services;
 - 🌱 I’m currently learning data science with IBM and Correlation One;
 - 👯 I’m looking to collaborate with other tech enthusiasts; 
 - 🥅 2022 Goals: Begin an internship and contribute to Open Source projects;
