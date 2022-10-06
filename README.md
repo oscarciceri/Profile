@@ -27,6 +27,7 @@
 - 🕹 Toolkits: Git, Jupyter, Numpy, Pandas, MatplotLib, Seaborn
 - ⚙ Other Skills: Genetic Algorithms, Search algorithms, Dynamic programming;
 - ⌨ Technical Writing: LATEX
+-   Machine Learning: Linear and Logistic Regression, KNN
 
 <br />
 <br />
