@@ -23,11 +23,11 @@
 
 ### Languages and Tools:
 
-- 🗿  Programming:  Python, SQL, C/C++, JAVA, BASH;
+- 🗿 Programming:  Python, SQL, C/C++, JAVA, BASH;
 - 🕹 Toolkits: Git, Jupyter, Numpy, Pandas, MatplotLib, Seaborn
-- ⚙ Other Skills: Genetic Algorithms, Search algorithms, Dynamic programming;
-- ⌨ Technical Writing: LATEX
--   Machine Learning: Linear and Logistic Regression, KNN
+- ⚙  Other Skills: Genetic Algorithms, Search algorithms, Dynamic programming;
+- ⌨  Technical Writing: LATEX
+- 💪🏽 Machine Learning: Linear and Logistic Regression, KNN
 
 <br />
 <br />
