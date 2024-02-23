@@ -6,11 +6,11 @@
 
 ## I'm a Computer and Data Scientist, Software Developer, Teacher and Technology geek!!
 
-- 🔭 I just starting to learn AWS and Azure cloud services;
-- 🌱 I’m currently learning data science with IBM and Correlation One;
+- 🔭 I just starting to learn cloud services;
+- 🌱 I’m currently learning TensorFlow;
 - 👯 I’m looking to collaborate with other tech enthusiasts; 
-- 🥅 2022 Goals: Begin an internship and contribute to Open Source projects;
-- ⚡ Fun fact: I love to Mountain Bike.
+- 🥅 2024 Goals: Begin an internship and contribute to Open Source projects;
+- ⚡ Fun fact: I love Bikes.
 
 ### Connect with me:
 
